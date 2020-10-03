@@ -269,6 +269,22 @@ header h1 {
     font-size: 17px;
   }
 
+  /* grid section */
+
+  .service-grid-container {
+    display: grid;
+  }
+
+  .service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+  }
+
+  /*reach out section*/
+
   .contact {
     background-color: #024e76;
   }
